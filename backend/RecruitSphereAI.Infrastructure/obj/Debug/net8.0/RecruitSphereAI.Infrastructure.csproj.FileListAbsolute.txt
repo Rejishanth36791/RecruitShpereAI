@@ -1,0 +1,17 @@
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitSphereAI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitSphereAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitSphereAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitSphereAI.Infrastructure.AssemblyInfo.cs
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitSphereAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\bin\Debug\net8.0\RecruitSphereAI.Infrastructure.deps.json
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\bin\Debug\net8.0\RecruitSphereAI.Infrastructure.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\bin\Debug\net8.0\RecruitSphereAI.Infrastructure.pdb
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\bin\Debug\net8.0\RecruitSphereAI.Core.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\bin\Debug\net8.0\RecruitSphereAI.Persistence.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\bin\Debug\net8.0\RecruitSphereAI.Core.pdb
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\bin\Debug\net8.0\RecruitSphereAI.Persistence.pdb
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitS.A6117E1B.Up2Date
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitSphereAI.Infrastructure.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\refint\RecruitSphereAI.Infrastructure.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\RecruitSphereAI.Infrastructure.pdb
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Infrastructure\obj\Debug\net8.0\ref\RecruitSphereAI.Infrastructure.dll

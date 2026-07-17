@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RecruitSphereAI.Api/RecruitSphereAI.Api.csproj" />
+  <Project Path="RecruitSphereAI.Core/RecruitSphereAI.Core.csproj" />
+  <Project Path="RecruitSphereAI.Infrastructure/RecruitSphereAI.Infrastructure.csproj" />
+  <Project Path="RecruitSphereAI.Persistence/RecruitSphereAI.Persistence.csproj" />
+</Solution>

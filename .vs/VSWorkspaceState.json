@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\RecruitSphereAI.Api",
+    "\\backend\\RecruitSphereAI.Infrastructure",
+    "\\backend\\RecruitSphereAI.Infrastructure\\Services",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\components\\layout",
+    "\\frontend\\src\\components\\ui"
+  ],
+  "SelectedNode": "\\backend\\RecruitSphereAI.Infrastructure\\Services\\AIService.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,6 @@
+@RecruitSphereAI.Api_HostAddress = http://localhost:5150
+
+GET {{RecruitSphereAI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

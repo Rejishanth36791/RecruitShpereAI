@@ -1,0 +1,17 @@
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\bin\Debug\net8.0\RecruitSphereAI.Persistence.deps.json
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\bin\Debug\net8.0\RecruitSphereAI.Persistence.runtimeconfig.json
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\bin\Debug\net8.0\RecruitSphereAI.Persistence.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\bin\Debug\net8.0\RecruitSphereAI.Persistence.pdb
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\bin\Debug\net8.0\RecruitSphereAI.Core.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\bin\Debug\net8.0\RecruitSphereAI.Core.pdb
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.csproj.AssemblyReference.cache
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.AssemblyInfoInputs.cache
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.AssemblyInfo.cs
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitS.C494BF53.Up2Date
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\refint\RecruitSphereAI.Persistence.dll
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.pdb
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\RecruitSphereAI.Persistence.genruntimeconfig.cache
+C:\Users\EX BOOK\Downloads\RecruitSphereAI-full\backend\RecruitSphereAI.Persistence\obj\Debug\net8.0\ref\RecruitSphereAI.Persistence.dll
